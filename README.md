@@ -1,2 +1,1 @@
-# HelmetHUD
-HelmetHUD
+	The aim of this project is to develop a heads-up-display (HUD) that outputs data directly into the visor of the motorcyclist’s helmet via a small LCD screen. By providing information such as blind spot detection and speedometer reading to the rider in a non-obtrusive, yet easily obtainable fashion, this could potentially lead to the rider having more time with which to respond to changing traffic environments.
